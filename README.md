@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Apollo-kai
+- 👋 Hi, I’m @Apollo
 - 👀 I’m interested in Nueromorphic Computting and Engineering
 - 🌱 I’m currently learning C++, Computer Structures, Intro to Fibonacci Numbers, Julia Langauage, and Python
 - 💞️ I’m looking to collaborate on Machine Learning, Landau and Lifshitz Math theories, Dirivitatives, and Neurology, and Robotics Engineering
